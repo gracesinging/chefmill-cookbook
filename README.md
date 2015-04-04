@@ -1,5 +1,5 @@
 # chefmill-cookbook
-Empty cookbook for the ChefMill application
+Empty cookbook for the [Chef Mill](https://github.com/daptiv/ChefMill) application
 
 ## Goal
 
